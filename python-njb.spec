@@ -3,7 +3,7 @@
 
 Name:           python-%{module}
 Version:        0.1.0
-Release:        %mkrel 3
+Release:        %mkrel 4
 Summary:        Python module for nomad jukebox
 Group:          Development/Python
 License:        GPL
