@@ -7,7 +7,7 @@ Release:        %mkrel 4
 Summary:        Python module for nomad jukebox
 Group:          Development/Python
 License:        GPL
-URL:            http://lsongs.com/?page=downloads
+URL:            https://lsongs.com/?page=downloads
 Source0:        http://software.linspire.com/pool-src/p/pynjb/py%{module}_%{version}-0.0.0.50.linspire0.6.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires:  python-devel python-sip
